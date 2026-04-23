@@ -8,7 +8,17 @@
 int main(int argc, char **argv) {
   int16_t count = 0;
   // write your solution here
-  for (count i++)
+  int dice  = 0;
 
-  printf("Du hast %d Mal gewürfelt.", count);
+  for (count = dice =+ );
+  /*{ 
+    if (count > 6){
+    false }
+    else {
+      (count < 6)
+      right
+    }
+  }
+*/ 
+  printf("Du hast %d Mal  gültig gewürfelt.", count);
 }

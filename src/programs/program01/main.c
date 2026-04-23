@@ -9,8 +9,15 @@ int main(int argc, char **argv) {
    // write your solution here
 
    int number = 0;
+   int count = 0;
    
+   printf("Geben Sie die Zahl ein: ");
+   scanf("%d", number);
+
+   for (count) {
+      
+   }
+
    
 
 }
-.
