@@ -9,10 +9,11 @@
 
 
 double celsius2fahrenheit (double temp_celsius){
-temp_celsius = temp_celsius * 9/5 + 32;
-}
-return celsius2fahrenheit;
+double Fahrenheit = 0;
+Fahrenheit= temp_celsius * 9/5 + 32;
 
+return Fahrenheit;
+}
 
 
 int main(void) {
