@@ -10,7 +10,7 @@ int main(int argc, char **argv) {
   // write your solution here
   int dice  = 0;
 
-  for (count = dice =+ );
+  for (count = dice =+ )
   /*{ 
     if (count > 6){
     false }
